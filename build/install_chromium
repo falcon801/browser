@@ -36,6 +36,7 @@ apt-get update && apt-get install -y  --no-install-recommends \
     curl \
     lsb-release \
     mesa-vdpau-drivers \
+    mesa-vulkan-drivers \
     scrot \
     x11-xserver-utils \
     xserver-xorg-input-evdev \
